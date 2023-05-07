@@ -1,3 +1,4 @@
+ato install FBI data base
 #!/bin/bash
 set -eo pipefail
 
